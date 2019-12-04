@@ -15,6 +15,17 @@ Airbnb stands for Air Coffee &amp; Code, a booking spots for developers.
 
 ## STACK
 
+- ReactJS
+- React Native
+- NodeJS
+- Expo
+
+### Dependencies
+
+<p>
+Use ```Yarn``` as your default package manager
+</p>
+
 - Web
     - <img src="https://img.shields.io/badge/React-^16.10.2-blue"/> 
     - <img src="https://img.shields.io/badge/Axios-^0.19.0-blue"/> 
