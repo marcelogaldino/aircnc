@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Airbnb stands for Air Coffee &amp; Code, a booking spots for developers.
+Aircnc stands for Air Coffee &amp; Code, a booking spots for developers.
 
 <br>
 <br>
