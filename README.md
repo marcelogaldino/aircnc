@@ -15,8 +15,9 @@ Airbnb stands for Air Coffee &amp; Code, a booking spots for developers.
 ## STACK
 
 - Web
-    - <img src="https://img.shields.io/badge/React-^16.10.2-blue"/> 
+<br>
+    <img src="https://img.shields.io/badge/React-^16.10.2-blue"/> 
     <img src="https://img.shields.io/badge/Axios-^0.19.0-blue"/> 
-    <img src="https://img.shields.io/badge/React-dom-^16.10.2-blue"/> 
-    <img src="https://img.shields.io/badge/React-router-dom-^5.1.2-blue"/> 
-    <img src="https://img.shields.io/badge/React-scripts-3.2.0-blue"/> 
+    <img src="https://img.shields.io/badge/ReactDOM-^16.10.2-blue"/> 
+    <img src="https://img.shields.io/badge/ReactRouterDOM-^5.1.2-blue"/> 
+    <img src="https://img.shields.io/badge/ReactScripts-3.2.0-blue"/> 
