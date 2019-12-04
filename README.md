@@ -35,6 +35,10 @@ Airbnb stands for Air Coffee &amp; Code, a booking spots for developers.
     - <img src="https://img.shields.io/badge/mongoose-^5.7.5-green"/> 
     - <img src="https://img.shields.io/badge/multer-^1.4.2-green"/>
 
+<br>
+
+<blockquote alt="[ignore]">
 <p>
->This project comes from Rocketseat's omnistack week #9, and it is only for study purposes. The brand, logo and name are non professional
+This project comes from Rocketseat's omnistack week #9, and it is only for study purposes. The brand, logo and name are non professional
 </p>
+</blockquote>
