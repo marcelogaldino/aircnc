@@ -23,7 +23,12 @@ Airbnb stands for Air Coffee &amp; Code, a booking spots for developers.
 ### Dependencies
 
 <p>
-Use ```Yarn``` as your default package manager
+Use 
+
+```
+Yarn
+``` 
+as your default package manager
 </p>
 
 - Web
