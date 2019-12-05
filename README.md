@@ -5,6 +5,14 @@
 <p align="center">
 Aircnc stands for Air Coffee &amp; Code, a booking spots for developers.
 
+<br>
+<br>
+
+<img src="https://img.shields.io/github/stars/marcelogaldino/aircnc"/>
+<img src="https://img.shields.io/github/forks/marcelogaldino/aircnc"/>
+<img src="https://img.shields.io/github/issues/marcelogaldino/aircnc"/>
+<img src="https://img.shields.io/github/license/marcelogaldino/aircnc"/>
+
 - Web 
 
 <p align="center"> 
@@ -17,13 +25,6 @@ Aircnc stands for Air Coffee &amp; Code, a booking spots for developers.
     <img src="mobile/src/assets/aircnc_app.png">
 </p>
 
-<br>
-<br>
-
-<img src="https://img.shields.io/github/stars/marcelogaldino/aircnc"/>
-<img src="https://img.shields.io/github/forks/marcelogaldino/aircnc"/>
-<img src="https://img.shields.io/github/issues/marcelogaldino/aircnc"/>
-<img src="https://img.shields.io/github/license/marcelogaldino/aircnc"/>
 
 ## STACK
 
