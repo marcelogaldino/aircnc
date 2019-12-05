@@ -5,6 +5,18 @@
 <p align="center">
 Aircnc stands for Air Coffee &amp; Code, a booking spots for developers.
 
+- Web 
+
+<p align="center"> 
+    <img src="frontend/src/assets/aircnc_web.png">
+</p>
+
+- Mobile
+
+<p align="center"> 
+    <img src="mobile/src/assets/aircnc_app.png">
+</p>
+
 <br>
 <br>
 
